@@ -1,0 +1,1078 @@
+SiteName,latitude,longitude,sample_duration,pollutant_standard,date_local,units_of_measure,arithmetic_mean,aqi,local_site_name,site_address
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/4/2024,Parts per million,0.021647,26,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/1/2024,Parts per million,0.016529,17,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/2/2024,Parts per million,0.014941,21,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/3/2024,Parts per million,0.008059,17,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/5/2024,Parts per million,0.011353,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/6/2024,Parts per million,0.008,9,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/22/2024,Parts per million,0.004625,8,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/23/2024,Parts per million,0.006176,11,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/24/2024,Parts per million,0.001294,2,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/25/2024,Parts per million,0.003,10,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/26/2024,Parts per million,0.004235,11,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/27/2024,Parts per million,0.012824,17,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/28/2024,Parts per million,0.019941,23,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/29/2024,Parts per million,0.022882,22,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/30/2024,Parts per million,0.022765,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/31/2024,Parts per million,0.016529,26,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/1/2024,Parts per million,0.007765,11,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/2/2024,Parts per million,0.005,5,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/5/2024,Parts per million,0.024727,28,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/6/2024,Parts per million,0.022353,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/7/2024,Parts per million,0.016235,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/8/2024,Parts per million,0.020412,21,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/9/2024,Parts per million,0.016941,29,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/10/2024,Parts per million,0.003529,6,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/11/2024,Parts per million,0.016529,21,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/12/2024,Parts per million,0.011538,14,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/13/2024,Parts per million,0.023267,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/14/2024,Parts per million,0.025412,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/18/2024,Parts per million,0.025941,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/15/2024,Parts per million,0.024412,27,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/16/2024,Parts per million,0.029059,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/17/2024,Parts per million,0.027588,30,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/19/2024,Parts per million,0.027176,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/20/2024,Parts per million,0.026471,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/21/2024,Parts per million,0.026235,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/22/2024,Parts per million,0.026059,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/23/2024,Parts per million,0.020235,23,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/24/2024,Parts per million,0.033353,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/25/2024,Parts per million,0.027412,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/26/2024,Parts per million,0.010412,19,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/27/2024,Parts per million,0.035824,38,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/28/2024,Parts per million,0.031588,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/29/2024,Parts per million,0.026412,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/1/2024,Parts per million,0.034647,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/2/2024,Parts per million,0.025176,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/3/2024,Parts per million,0.018882,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/4/2024,Parts per million,0.033176,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/5/2024,Parts per million,0.018294,26,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/6/2024,Parts per million,0.007353,12,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/7/2024,Parts per million,0.021118,23,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/8/2024,Parts per million,0.033294,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/9/2024,Parts per million,0.030706,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/10/2024,Parts per million,0.033294,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/11/2024,Parts per million,0.037471,40,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/12/2024,Parts per million,0.025235,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/13/2024,Parts per million,0.026353,41,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/14/2024,Parts per million,0.044706,51,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/15/2024,Parts per million,0.039176,40,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/16/2024,Parts per million,0.038941,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/17/2024,Parts per million,0.037706,38,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/18/2024,Parts per million,0.032529,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/19/2024,Parts per million,0.028588,35,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/20/2024,Parts per million,0.035706,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/21/2024,Parts per million,0.029824,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/22/2024,Parts per million,0.032765,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/23/2024,Parts per million,0.031647,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/24/2024,Parts per million,0.033941,39,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/25/2024,Parts per million,0.031765,39,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/26/2024,Parts per million,0.033059,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/27/2024,Parts per million,0.008118,19,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/28/2024,Parts per million,0.022647,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/29/2024,Parts per million,0.043471,45,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/30/2024,Parts per million,0.036294,43,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/31/2024,Parts per million,0.026,43,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/1/2024,Parts per million,0.015588,27,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/2/2024,Parts per million,0.042,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/3/2024,Parts per million,0.034706,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/4/2024,Parts per million,0.026294,29,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/5/2024,Parts per million,0.034235,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/6/2024,Parts per million,0.038,38,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/7/2024,Parts per million,0.034353,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/8/2024,Parts per million,0.028353,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/9/2024,Parts per million,0.049588,71,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/10/2024,Parts per million,0.038059,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/11/2024,Parts per million,0.036706,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/12/2024,Parts per million,0.040294,40,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/13/2024,Parts per million,0.039412,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/14/2024,Parts per million,0.046294,50,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/15/2024,Parts per million,0.045176,58,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/16/2024,Parts per million,0.041412,50,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/17/2024,Parts per million,0.039353,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/18/2024,Parts per million,0.028353,30,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/19/2024,Parts per million,0.029471,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/20/2024,Parts per million,0.040706,46,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/21/2024,Parts per million,0.028941,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/22/2024,Parts per million,0.041471,46,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/23/2024,Parts per million,0.047294,47,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/24/2024,Parts per million,0.044471,48,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/25/2024,Parts per million,0.033412,35,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/26/2024,Parts per million,0.045,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/29/2024,Parts per million,0.044588,64,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/30/2024,Parts per million,0.037647,51,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/1/2024,Parts per million,0.043882,58,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/2/2024,Parts per million,0.049294,74,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/3/2024,Parts per million,0.034529,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/4/2024,Parts per million,0.027118,26,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/5/2024,Parts per million,0.016118,20,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/6/2024,Parts per million,0.01875,20,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/7/2024,Parts per million,0.038846,74,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/8/2024,Parts per million,0.042647,48,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/9/2024,Parts per million,0.04,41,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/10/2024,Parts per million,0.023588,25,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/11/2024,Parts per million,0.033,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/12/2024,Parts per million,0.021647,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/13/2024,Parts per million,0.032059,39,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/14/2024,Parts per million,0.029706,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/15/2024,Parts per million,0.037647,40,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/16/2024,Parts per million,0.036647,35,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/17/2024,Parts per million,0.022235,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/18/2024,Parts per million,0.020647,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/19/2024,Parts per million,0.032235,40,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/20/2024,Parts per million,0.035353,48,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/21/2024,Parts per million,0.039471,50,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/22/2024,Parts per million,0.038765,47,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/23/2024,Parts per million,0.042529,49,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/24/2024,Parts per million,0.050235,100,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/25/2024,Parts per million,0.061059,115,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/26/2024,Parts per million,0.043647,64,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/27/2024,Parts per million,0.032412,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/28/2024,Parts per million,0.045647,49,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/29/2024,Parts per million,0.038,44,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/30/2024,Parts per million,0.041,43,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/31/2024,Parts per million,0.039118,47,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/1/2024,Parts per million,0.046471,51,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/2/2024,Parts per million,0.053353,77,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/3/2024,Parts per million,0.049176,67,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/4/2024,Parts per million,0.052941,71,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/5/2024,Parts per million,0.033588,43,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/6/2024,Parts per million,0.041059,44,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/7/2024,Parts per million,0.044529,51,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/8/2024,Parts per million,0.032353,39,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/9/2024,Parts per million,0.039059,43,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/10/2024,Parts per million,0.030176,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/11/2024,Parts per million,0.026471,30,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/12/2024,Parts per million,0.043529,54,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/13/2024,Parts per million,0.047471,64,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/14/2024,Parts per million,0.051412,101,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/15/2024,Parts per million,0.035294,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/16/2024,Parts per million,0.043059,51,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/17/2024,Parts per million,0.043471,49,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/18/2024,Parts per million,0.042824,51,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/19/2024,Parts per million,0.041824,58,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/20/2024,Parts per million,0.043176,80,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/21/2024,Parts per million,0.050529,105,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/22/2024,Parts per million,0.043235,58,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/23/2024,Parts per million,0.037529,47,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/24/2024,Parts per million,0.040647,44,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/25/2024,Parts per million,0.052059,77,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/26/2024,Parts per million,0.058647,119,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/27/2024,Parts per million,0.043588,51,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/28/2024,Parts per million,0.034294,41,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/29/2024,Parts per million,0.03,38,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/30/2024,Parts per million,0.026,30,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/1/2024,Parts per million,0.023294,26,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/2/2024,Parts per million,0.034133,48,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/3/2024,Parts per million,0.034353,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/4/2024,Parts per million,0.040706,51,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/5/2024,Parts per million,0.036765,45,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/6/2024,Parts per million,0.039941,45,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/7/2024,Parts per million,0.044176,58,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/8/2024,Parts per million,0.043529,84,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/9/2024,Parts per million,0.031412,44,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/10/2024,Parts per million,0.021824,25,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/11/2024,Parts per million,0.038706,44,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/12/2024,Parts per million,0.019706,23,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/13/2024,Parts per million,0.028118,39,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/14/2024,Parts per million,0.034412,47,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/15/2024,Parts per million,0.054545,64,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/16/2024,Parts per million,0.047588,64,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/17/2024,Parts per million,0.046471,84,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/18/2024,Parts per million,0.038588,44,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/19/2024,Parts per million,0.040412,46,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/20/2024,Parts per million,0.038353,44,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/21/2024,Parts per million,0.047294,54,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/22/2024,Parts per million,0.035118,38,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/23/2024,Parts per million,0.038294,43,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/24/2024,Parts per million,0.030118,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/25/2024,Parts per million,0.039529,47,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/26/2024,Parts per million,0.028412,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/27/2024,Parts per million,0.039882,61,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/28/2024,Parts per million,0.043647,49,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/29/2024,Parts per million,0.039824,49,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/30/2024,Parts per million,0.035353,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/31/2024,Parts per million,0.044353,49,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/1/2024,Parts per million,0.048235,87,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/2/2024,Parts per million,0.029824,40,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/3/2024,Parts per million,0.034588,40,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/4/2024,Parts per million,0.030294,35,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/5/2024,Parts per million,0.040706,54,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/6/2024,Parts per million,0.039938,46,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/7/2024,Parts per million,0.027353,28,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/8/2024,Parts per million,0.013118,18,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/9/2024,Parts per million,0.017529,21,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/10/2024,Parts per million,0.040438,45,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/12/2024,Parts per million,0.026273,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/13/2024,Parts per million,0.027647,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/14/2024,Parts per million,0.028824,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/15/2024,Parts per million,0.031,35,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/16/2024,Parts per million,0.047471,74,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/17/2024,Parts per million,0.026176,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/18/2024,Parts per million,0.031353,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/19/2024,Parts per million,0.025824,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/20/2024,Parts per million,0.026941,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/21/2024,Parts per million,0.025824,30,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/22/2024,Parts per million,0.027882,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/26/2024,Parts per million,0.045647,105,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/23/2024,Parts per million,0.034824,45,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/24/2024,Parts per million,0.048471,64,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/25/2024,Parts per million,0.053588,80,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/27/2024,Parts per million,0.055059,93,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/28/2024,Parts per million,0.051353,71,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/29/2024,Parts per million,0.026706,30,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/30/2024,Parts per million,0.020824,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/31/2024,Parts per million,0.032353,38,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/1/2024,Parts per million,0.037824,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/2/2024,Parts per million,0.029706,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/3/2024,Parts per million,0.036235,44,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/4/2024,Parts per million,0.043706,61,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/5/2024,Parts per million,0.032471,40,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/6/2024,Parts per million,0.025706,30,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/7/2024,Parts per million,0.019118,25,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/8/2024,Parts per million,0.028353,34,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/9/2024,Parts per million,0.034176,40,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/10/2024,Parts per million,0.035471,47,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/11/2024,Parts per million,0.042471,49,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/12/2024,Parts per million,0.042235,54,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/13/2024,Parts per million,0.035059,51,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/14/2024,Parts per million,0.050588,87,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/15/2024,Parts per million,0.032529,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/16/2024,Parts per million,0.026824,30,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/17/2024,Parts per million,0.029765,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/18/2024,Parts per million,0.023941,23,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/19/2024,Parts per million,0.037235,51,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/20/2024,Parts per million,0.040824,50,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/21/2024,Parts per million,0.038588,43,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/22/2024,Parts per million,0.039529,46,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/23/2024,Parts per million,0.031353,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/24/2024,Parts per million,0.032647,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/25/2024,Parts per million,0.019471,22,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/26/2024,Parts per million,0.017294,22,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/27/2024,Parts per million,0.022588,22,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/28/2024,Parts per million,0.022294,22,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/29/2024,Parts per million,0.023824,25,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/30/2024,Parts per million,0.029529,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/1/2024,Parts per million,0.025765,27,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/3/2024,Parts per million,0.028933,41,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/4/2024,Parts per million,0.028941,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/5/2024,Parts per million,0.031588,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/6/2024,Parts per million,0.042765,47,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/7/2024,Parts per million,0.029412,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/8/2024,Parts per million,0.031824,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/9/2024,Parts per million,0.032294,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/10/2024,Parts per million,0.012294,16,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/11/2024,Parts per million,0.024529,25,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/12/2024,Parts per million,0.024647,43,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/13/2024,Parts per million,0.041706,44,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/14/2024,Parts per million,0.026588,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/15/2024,Parts per million,0.022471,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/16/2024,Parts per million,0.028471,29,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/17/2024,Parts per million,0.022353,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/18/2024,Parts per million,0.004111,8,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/19/2024,Parts per million,0.019176,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/20/2024,Parts per million,0.028824,42,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/21/2024,Parts per million,0.01875,43,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/22/2024,Parts per million,0.043176,50,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/23/2024,Parts per million,0.036588,46,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/24/2024,Parts per million,0.030412,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/25/2024,Parts per million,0.020824,28,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/26/2024,Parts per million,0.032471,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/27/2024,Parts per million,0.018471,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/28/2024,Parts per million,0.020353,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/29/2024,Parts per million,0.026588,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/30/2024,Parts per million,0.020235,26,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/31/2024,Parts per million,0.032529,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/1/2024,Parts per million,0.031941,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/2/2024,Parts per million,0.029,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/3/2024,Parts per million,0.021118,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/4/2024,Parts per million,0.019471,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/5/2024,Parts per million,0.028,28,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/6/2024,Parts per million,0.025118,36,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/7/2024,Parts per million,0.027706,37,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/8/2024,Parts per million,0.033471,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/9/2024,Parts per million,0.014235,28,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/10/2024,Parts per million,0.024765,27,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/11/2024,Parts per million,0.021353,26,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/12/2024,Parts per million,0.026647,26,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/13/2024,Parts per million,0.013412,26,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/14/2024,Parts per million,0.021824,26,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/15/2024,Parts per million,0.023765,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/16/2024,Parts per million,0.028,30,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/17/2024,Parts per million,0.016765,25,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/18/2024,Parts per million,0.018941,29,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/19/2024,Parts per million,0.011176,20,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/20/2024,Parts per million,0.023353,28,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/21/2024,Parts per million,0.021647,21,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/22/2024,Parts per million,0.006706,10,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/23/2024,Parts per million,0.019529,21,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/24/2024,Parts per million,0.014294,19,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/25/2024,Parts per million,0.013235,17,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/26/2024,Parts per million,0.015294,21,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/27/2024,Parts per million,0.010882,20,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/28/2024,Parts per million,0.016588,21,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/29/2024,Parts per million,0.022412,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/30/2024,Parts per million,0.022294,25,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/1/2024,Parts per million,0.014412,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/2/2024,Parts per million,0.014471,19,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/3/2024,Parts per million,0.012941,19,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/4/2024,Parts per million,0.022294,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/5/2024,Parts per million,0.021706,23,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/6/2024,Parts per million,0.023235,30,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/7/2024,Parts per million,0.019294,21,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/8/2024,Parts per million,0.014941,28,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/9/2024,Parts per million,0.002882,4,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/10/2024,Parts per million,0.009471,12,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/11/2024,Parts per million,0.021647,22,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/12/2024,Parts per million,0.028824,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/13/2024,Parts per million,0.020176,25,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/14/2024,Parts per million,0.011706,22,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/15/2024,Parts per million,0.006941,12,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/16/2024,Parts per million,0.011588,14,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/17/2024,Parts per million,0.007765,12,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/18/2024,Parts per million,0.013765,17,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/19/2024,Parts per million,0.018706,20,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/20/2024,Parts per million,0.006882,11,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/21/2024,Parts per million,0.032765,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/22/2024,Parts per million,0.029,32,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/23/2024,Parts per million,0.012647,17,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/24/2024,Parts per million,0.009235,14,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/25/2024,Parts per million,0.022529,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/26/2024,Parts per million,0.012765,24,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/27/2024,Parts per million,0.006941,11,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/28/2024,Parts per million,0.003,3,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/29/2024,Parts per million,0.036588,39,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/30/2024,Parts per million,0.024529,33,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0004,40.008889,-75.09778,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/31/2024,Parts per million,0.027167,31,Air Management Services Laboratory (AMS LAB),1501 E. LYCOMING AVE.
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/1/2024,Parts per million,0.020118,21,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/2/2024,Parts per million,0.021647,26,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/3/2024,Parts per million,0.012706,23,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/4/2024,Parts per million,0.026412,30,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/5/2024,Parts per million,0.015588,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/6/2024,Parts per million,0.021588,25,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/7/2024,Parts per million,0.022941,23,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/8/2024,Parts per million,0.016765,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/9/2024,Parts per million,0.035118,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/10/2024,Parts per million,0.025706,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/11/2024,Parts per million,0.018471,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/12/2024,Parts per million,0.030941,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/13/2024,Parts per million,0.028118,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/14/2024,Parts per million,0.031235,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/15/2024,Parts per million,0.018882,24,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/16/2024,Parts per million,0.021412,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/17/2024,Parts per million,0.029647,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/18/2024,Parts per million,0.011176,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/19/2024,Parts per million,0.019294,24,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/20/2024,Parts per million,0.033824,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/21/2024,Parts per million,0.026706,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/22/2024,Parts per million,0.015412,24,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/23/2024,Parts per million,0.011588,16,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/24/2024,Parts per million,0.005882,9,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/25/2024,Parts per million,0.007824,16,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/26/2024,Parts per million,0.005769,9,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/27/2024,Parts per million,0.015765,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/28/2024,Parts per million,0.022882,25,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/29/2024,Parts per million,0.025118,24,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/30/2024,Parts per million,0.027118,27,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/31/2024,Parts per million,0.019588,30,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/1/2024,Parts per million,0.012118,18,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/2/2024,Parts per million,0.016059,17,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/6/2024,Parts per million,0.024176,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/3/2024,Parts per million,0.024471,27,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/4/2024,Parts per million,0.022588,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/5/2024,Parts per million,0.028588,30,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/7/2024,Parts per million,0.018647,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/8/2024,Parts per million,0.024176,25,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/9/2024,Parts per million,0.021059,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/10/2024,Parts per million,0.007176,9,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/11/2024,Parts per million,0.019294,24,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/12/2024,Parts per million,0.016882,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/13/2024,Parts per million,0.027941,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/14/2024,Parts per million,0.030765,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/15/2024,Parts per million,0.029941,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/16/2024,Parts per million,0.030353,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/17/2024,Parts per million,0.032059,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/18/2024,Parts per million,0.030294,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/19/2024,Parts per million,0.028412,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/20/2024,Parts per million,0.025765,30,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/21/2024,Parts per million,0.027353,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/22/2024,Parts per million,0.032941,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/23/2024,Parts per million,0.024471,27,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/24/2024,Parts per million,0.034529,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/25/2024,Parts per million,0.029294,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/26/2024,Parts per million,0.015529,22,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/27/2024,Parts per million,0.040059,43,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/28/2024,Parts per million,0.033765,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/29/2024,Parts per million,0.032529,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/1/2024,Parts per million,0.038,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/2/2024,Parts per million,0.029235,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/3/2024,Parts per million,0.023353,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/4/2024,Parts per million,0.034353,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/5/2024,Parts per million,0.021353,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/6/2024,Parts per million,0.010824,16,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/7/2024,Parts per million,0.025412,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/8/2024,Parts per million,0.035059,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/9/2024,Parts per million,0.033235,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/10/2024,Parts per million,0.033588,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/11/2024,Parts per million,0.038353,40,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/12/2024,Parts per million,0.026471,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/13/2024,Parts per million,0.030588,46,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/14/2024,Parts per million,0.046529,61,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/15/2024,Parts per million,0.038471,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/16/2024,Parts per million,0.039059,42,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/17/2024,Parts per million,0.037294,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/18/2024,Parts per million,0.033647,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/19/2024,Parts per million,0.030588,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/20/2024,Parts per million,0.035882,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/21/2024,Parts per million,0.031647,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/22/2024,Parts per million,0.034294,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/23/2024,Parts per million,0.031588,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/24/2024,Parts per million,0.032588,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/25/2024,Parts per million,0.029647,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/26/2024,Parts per million,0.032412,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/27/2024,Parts per million,0.012,21,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/28/2024,Parts per million,0.024118,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/29/2024,Parts per million,0.042294,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/30/2024,Parts per million,0.035471,42,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/31/2024,Parts per million,0.026059,40,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/1/2024,Parts per million,0.015176,24,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/2/2024,Parts per million,0.038529,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/3/2024,Parts per million,0.033941,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/4/2024,Parts per million,0.028941,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/5/2024,Parts per million,0.034412,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/6/2024,Parts per million,0.035471,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/7/2024,Parts per million,0.031235,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/8/2024,Parts per million,0.027,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/9/2024,Parts per million,0.049941,71,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/10/2024,Parts per million,0.036235,39,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/11/2024,Parts per million,0.037118,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/12/2024,Parts per million,0.038882,39,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/16/2024,Parts per million,0.042294,47,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/13/2024,Parts per million,0.038824,41,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/14/2024,Parts per million,0.044471,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/15/2024,Parts per million,0.043412,50,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/17/2024,Parts per million,0.038588,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/18/2024,Parts per million,0.026059,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/19/2024,Parts per million,0.031353,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/20/2024,Parts per million,0.038824,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/21/2024,Parts per million,0.029529,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/22/2024,Parts per million,0.038765,43,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/23/2024,Parts per million,0.045647,47,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/24/2024,Parts per million,0.041235,45,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/25/2024,Parts per million,0.032471,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/26/2024,Parts per million,0.036529,41,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/27/2024,Parts per million,0.037118,40,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/28/2024,Parts per million,0.032765,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/29/2024,Parts per million,0.042588,54,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/30/2024,Parts per million,0.034941,46,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/1/2024,Parts per million,0.042,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/2/2024,Parts per million,0.047412,67,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/3/2024,Parts per million,0.031059,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/4/2024,Parts per million,0.026588,25,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/5/2024,Parts per million,0.018765,22,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/6/2024,Parts per million,0.014647,24,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/7/2024,Parts per million,0.041353,67,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/8/2024,Parts per million,0.041647,47,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/9/2024,Parts per million,0.037941,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/10/2024,Parts per million,0.023882,25,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/11/2024,Parts per million,0.031706,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/12/2024,Parts per million,0.021294,26,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/13/2024,Parts per million,0.033235,40,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/14/2024,Parts per million,0.033647,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/15/2024,Parts per million,0.035353,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/16/2024,Parts per million,0.033412,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/17/2024,Parts per million,0.026235,39,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/18/2024,Parts per million,0.022882,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/19/2024,Parts per million,0.030824,39,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/20/2024,Parts per million,0.037588,51,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/21/2024,Parts per million,0.039647,50,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/22/2024,Parts per million,0.039471,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/23/2024,Parts per million,0.038059,47,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/24/2024,Parts per million,0.043882,84,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/25/2024,Parts per million,0.058235,97,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/26/2024,Parts per million,0.040765,49,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/27/2024,Parts per million,0.031706,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/28/2024,Parts per million,0.042235,46,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/29/2024,Parts per million,0.035235,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/30/2024,Parts per million,0.037471,40,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/31/2024,Parts per million,0.037059,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/1/2024,Parts per million,0.041118,49,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/2/2024,Parts per million,0.050294,64,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/3/2024,Parts per million,0.044647,50,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/4/2024,Parts per million,0.050588,61,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/5/2024,Parts per million,0.035059,41,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/6/2024,Parts per million,0.038588,43,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/7/2024,Parts per million,0.043118,50,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/11/2024,Parts per million,0.024882,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/8/2024,Parts per million,0.029294,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/9/2024,Parts per million,0.036882,40,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/10/2024,Parts per million,0.028706,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/12/2024,Parts per million,0.040176,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/13/2024,Parts per million,0.047118,61,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/14/2024,Parts per million,0.046176,100,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/15/2024,Parts per million,0.033294,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/16/2024,Parts per million,0.039706,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/17/2024,Parts per million,0.043412,49,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/18/2024,Parts per million,0.043706,54,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/19/2024,Parts per million,0.041059,54,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/20/2024,Parts per million,0.044647,87,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/21/2024,Parts per million,0.052412,112,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/22/2024,Parts per million,0.047,77,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/23/2024,Parts per million,0.039059,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/24/2024,Parts per million,0.039294,43,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/25/2024,Parts per million,0.050118,71,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/26/2024,Parts per million,0.055059,101,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/27/2024,Parts per million,0.041529,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/28/2024,Parts per million,0.035471,41,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/29/2024,Parts per million,0.032,39,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/30/2024,Parts per million,0.029882,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/1/2024,Parts per million,0.025294,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/2/2024,Parts per million,0.037706,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/3/2024,Parts per million,0.037647,45,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/4/2024,Parts per million,0.048529,67,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/5/2024,Parts per million,0.041882,50,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/6/2024,Parts per million,0.045529,51,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/7/2024,Parts per million,0.047529,80,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/8/2024,Parts per million,0.049,108,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/9/2024,Parts per million,0.039765,58,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/10/2024,Parts per million,0.028824,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/11/2024,Parts per million,0.042471,54,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/12/2024,Parts per million,0.029529,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/13/2024,Parts per million,0.034882,46,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/14/2024,Parts per million,0.041118,67,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/15/2024,Parts per million,0.054412,90,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/16/2024,Parts per million,0.050294,87,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/17/2024,Parts per million,0.047706,77,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/18/2024,Parts per million,0.037294,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/19/2024,Parts per million,0.037529,46,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/20/2024,Parts per million,0.038882,47,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/21/2024,Parts per million,0.040118,49,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/22/2024,Parts per million,0.032941,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/23/2024,Parts per million,0.039059,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/24/2024,Parts per million,0.032529,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/25/2024,Parts per million,0.038588,45,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/26/2024,Parts per million,0.028706,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/27/2024,Parts per million,0.040118,67,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/28/2024,Parts per million,0.042471,49,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/29/2024,Parts per million,0.041,58,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/30/2024,Parts per million,0.040529,42,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/31/2024,Parts per million,0.048,54,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/1/2024,Parts per million,0.053176,100,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/2/2024,Parts per million,0.036765,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/3/2024,Parts per million,0.043824,50,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/4/2024,Parts per million,0.032231,39,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/5/2024,Parts per million,0.046235,74,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/6/2024,Parts per million,0.049882,64,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/7/2024,Parts per million,0.031882,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/8/2024,Parts per million,0.022118,27,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/9/2024,Parts per million,0.023176,27,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/10/2024,Parts per million,0.041529,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/11/2024,Parts per million,0.035706,43,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/12/2024,Parts per million,0.035118,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/13/2024,Parts per million,0.031294,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/14/2024,Parts per million,0.031235,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/15/2024,Parts per million,0.033059,39,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/16/2024,Parts per million,0.049294,90,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/17/2024,Parts per million,0.032529,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/18/2024,Parts per million,0.037412,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/19/2024,Parts per million,0.029588,40,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/20/2024,Parts per million,0.029765,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/21/2024,Parts per million,0.027882,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/22/2024,Parts per million,0.035167,39,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/23/2024,Parts per million,0.034706,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/24/2024,Parts per million,0.049471,77,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/28/2024,Parts per million,0.051941,80,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/25/2024,Parts per million,0.056059,90,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/26/2024,Parts per million,0.047471,100,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/27/2024,Parts per million,0.056529,100,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/29/2024,Parts per million,0.031118,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/30/2024,Parts per million,0.025059,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/31/2024,Parts per million,0.034059,40,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/1/2024,Parts per million,0.040529,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/2/2024,Parts per million,0.032588,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/3/2024,Parts per million,0.037706,46,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/4/2024,Parts per million,0.043412,67,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/5/2024,Parts per million,0.034706,43,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/6/2024,Parts per million,0.030941,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/7/2024,Parts per million,0.022412,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/8/2024,Parts per million,0.032235,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/9/2024,Parts per million,0.037882,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/10/2024,Parts per million,0.037706,48,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/11/2024,Parts per million,0.043235,58,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/12/2024,Parts per million,0.042647,67,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/13/2024,Parts per million,0.040588,74,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/14/2024,Parts per million,0.053353,100,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/15/2024,Parts per million,0.033529,40,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/16/2024,Parts per million,0.028059,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/17/2024,Parts per million,0.032824,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/18/2024,Parts per million,0.026471,26,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/19/2024,Parts per million,0.040941,58,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/20/2024,Parts per million,0.039647,50,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/21/2024,Parts per million,0.038471,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/22/2024,Parts per million,0.039471,46,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/23/2024,Parts per million,0.030529,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/24/2024,Parts per million,0.034882,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/25/2024,Parts per million,0.025765,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/26/2024,Parts per million,0.023353,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/27/2024,Parts per million,0.026824,26,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/28/2024,Parts per million,0.027235,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/29/2024,Parts per million,0.026235,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/30/2024,Parts per million,0.031824,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/1/2024,Parts per million,0.027882,30,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/2/2024,Parts per million,0.035176,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/3/2024,Parts per million,0.031529,43,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/4/2024,Parts per million,0.031647,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/5/2024,Parts per million,0.034588,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/6/2024,Parts per million,0.043706,47,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/7/2024,Parts per million,0.031824,39,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/8/2024,Parts per million,0.030353,39,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/9/2024,Parts per million,0.034765,40,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/10/2024,Parts per million,0.015294,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/11/2024,Parts per million,0.028235,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/12/2024,Parts per million,0.027941,44,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/13/2024,Parts per million,0.042941,47,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/14/2024,Parts per million,0.028706,33,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/15/2024,Parts per million,0.018917,21,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/16/2024,Parts per million,0.027529,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/17/2024,Parts per million,0.022353,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/18/2024,Parts per million,0.017706,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/19/2024,Parts per million,0.021294,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/20/2024,Parts per million,0.024118,42,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/21/2024,Parts per million,0.029235,58,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/22/2024,Parts per million,0.042941,61,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/23/2024,Parts per million,0.032118,46,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/24/2024,Parts per million,0.028235,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/25/2024,Parts per million,0.020765,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/26/2024,Parts per million,0.031176,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/27/2024,Parts per million,0.015294,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/28/2024,Parts per million,0.019882,30,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/29/2024,Parts per million,0.026688,43,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/30/2024,Parts per million,0.02,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/31/2024,Parts per million,0.031588,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/1/2024,Parts per million,0.031471,38,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/2/2024,Parts per million,0.027588,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/3/2024,Parts per million,0.017529,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/4/2024,Parts per million,0.021235,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/5/2024,Parts per million,0.027588,30,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/6/2024,Parts per million,0.023,35,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/7/2024,Parts per million,0.026588,37,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/8/2024,Parts per million,0.032765,34,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/9/2024,Parts per million,0.014647,27,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/10/2024,Parts per million,0.023824,27,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/11/2024,Parts per million,0.021471,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/12/2024,Parts per million,0.026059,27,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/13/2024,Parts per million,0.013176,26,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/14/2024,Parts per million,0.021,26,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/15/2024,Parts per million,0.025647,27,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/16/2024,Parts per million,0.026588,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/20/2024,Parts per million,0.023529,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/17/2024,Parts per million,0.016,26,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/18/2024,Parts per million,0.020706,30,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/19/2024,Parts per million,0.009118,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/21/2024,Parts per million,0.021471,22,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/22/2024,Parts per million,0.005529,10,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/23/2024,Parts per million,0.019176,20,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/24/2024,Parts per million,0.014588,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/25/2024,Parts per million,0.013,18,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/26/2024,Parts per million,0.015059,22,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/27/2024,Parts per million,0.009,20,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/28/2024,Parts per million,0.017059,20,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/29/2024,Parts per million,0.021941,23,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/30/2024,Parts per million,0.022882,24,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/1/2024,Parts per million,0.014588,25,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/2/2024,Parts per million,0.015059,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/3/2024,Parts per million,0.011941,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/4/2024,Parts per million,0.021235,22,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/5/2024,Parts per million,0.021059,22,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/6/2024,Parts per million,0.024294,29,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/7/2024,Parts per million,0.018176,20,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/8/2024,Parts per million,0.014765,28,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/9/2024,Parts per million,0.000765,2,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/10/2024,Parts per million,0.015765,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/11/2024,Parts per million,0.022235,23,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/12/2024,Parts per million,0.028059,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/13/2024,Parts per million,0.020176,26,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/14/2024,Parts per million,0.011706,22,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/15/2024,Parts per million,0.005706,13,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/16/2024,Parts per million,0.014941,17,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/17/2024,Parts per million,0.011176,18,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/18/2024,Parts per million,0.015765,20,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/19/2024,Parts per million,0.016294,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/20/2024,Parts per million,0.007941,12,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/21/2024,Parts per million,0.032471,32,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/22/2024,Parts per million,0.027235,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/23/2024,Parts per million,0.010647,19,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/24/2024,Parts per million,0.010059,18,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/25/2024,Parts per million,0.021059,24,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/26/2024,Parts per million,0.011059,22,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/27/2024,Parts per million,0.007647,14,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/28/2024,Parts per million,0.000588,2,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/29/2024,Parts per million,0.034588,36,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/30/2024,Parts per million,0.023059,31,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0024,40.076389,-75.011944,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/31/2024,Parts per million,0.028182,30,North East Airport (NEA),GRANT-ASHTON ROADS PHILA NE AIRPORT
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/3/2024,Parts per million,0.009412,19,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/1/2024,Parts per million,0.017529,18,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/2/2024,Parts per million,0.017412,23,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/4/2024,Parts per million,0.022941,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/5/2024,Parts per million,0.015588,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/6/2024,Parts per million,0.018765,21,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/7/2024,Parts per million,0.018647,20,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/8/2024,Parts per million,0.012706,25,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/9/2024,Parts per million,0.032235,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/10/2024,Parts per million,0.021588,24,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/11/2024,Parts per million,0.017412,26,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/12/2024,Parts per million,0.028588,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/13/2024,Parts per million,0.026118,29,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/14/2024,Parts per million,0.028353,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/15/2024,Parts per million,0.017118,20,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/16/2024,Parts per million,0.018059,24,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/17/2024,Parts per million,0.027647,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/18/2024,Parts per million,0.011235,19,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/19/2024,Parts per million,0.017176,20,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/20/2024,Parts per million,0.030235,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/21/2024,Parts per million,0.019412,35,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/22/2024,Parts per million,0.016824,24,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/23/2024,Parts per million,0.005824,9,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/24/2024,Parts per million,0.001412,2,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/25/2024,Parts per million,0.003118,11,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/26/2024,Parts per million,0.003882,9,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/27/2024,Parts per million,0.013118,17,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/28/2024,Parts per million,0.020529,25,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/29/2024,Parts per million,0.021588,22,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/30/2024,Parts per million,0.022176,23,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,1/31/2024,Parts per million,0.015471,25,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/1/2024,Parts per million,0.010529,14,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/2/2024,Parts per million,0.012471,15,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/3/2024,Parts per million,0.020412,25,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/4/2024,Parts per million,0.02,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/5/2024,Parts per million,0.024235,29,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/9/2024,Parts per million,0.021882,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/6/2024,Parts per million,0.018941,30,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/7/2024,Parts per million,0.016824,29,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/8/2024,Parts per million,0.024353,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/10/2024,Parts per million,0.005765,10,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/11/2024,Parts per million,0.016118,22,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/12/2024,Parts per million,0.013529,15,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/13/2024,Parts per million,0.025412,26,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/14/2024,Parts per million,0.026176,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/15/2024,Parts per million,0.028706,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/16/2024,Parts per million,0.030647,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/17/2024,Parts per million,0.031588,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/18/2024,Parts per million,0.029824,35,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/19/2024,Parts per million,0.027176,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/20/2024,Parts per million,0.025059,30,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/21/2024,Parts per million,0.025529,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/22/2024,Parts per million,0.028706,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/23/2024,Parts per million,0.017647,21,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/24/2024,Parts per million,0.034706,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/25/2024,Parts per million,0.026059,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/26/2024,Parts per million,0.012882,22,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/27/2024,Parts per million,0.038118,41,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/28/2024,Parts per million,0.033529,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,2/29/2024,Parts per million,0.028941,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/1/2024,Parts per million,0.037765,39,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/2/2024,Parts per million,0.028941,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/3/2024,Parts per million,0.021118,35,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/4/2024,Parts per million,0.033059,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/5/2024,Parts per million,0.018765,26,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/6/2024,Parts per million,0.006529,10,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/7/2024,Parts per million,0.019706,22,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/8/2024,Parts per million,0.034529,35,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/9/2024,Parts per million,0.032706,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/10/2024,Parts per million,0.033882,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/11/2024,Parts per million,0.037529,40,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/12/2024,Parts per million,0.024133,43,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/13/2024,Parts per million,0.029824,46,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/14/2024,Parts per million,0.047588,64,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/15/2024,Parts per million,0.0395,38,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/16/2024,Parts per million,0.040118,43,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/17/2024,Parts per million,0.037765,39,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/18/2024,Parts per million,0.032588,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/19/2024,Parts per million,0.031412,35,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/20/2024,Parts per million,0.036059,37,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/21/2024,Parts per million,0.031176,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/22/2024,Parts per million,0.035882,35,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/23/2024,Parts per million,0.032,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/24/2024,Parts per million,0.032941,38,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/25/2024,Parts per million,0.030412,37,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/26/2024,Parts per million,0.032941,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/27/2024,Parts per million,0.009882,19,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/28/2024,Parts per million,0.022118,29,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/29/2024,Parts per million,0.043647,45,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/30/2024,Parts per million,0.037412,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,3/31/2024,Parts per million,0.027176,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/1/2024,Parts per million,0.012471,23,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/2/2024,Parts per million,0.042882,42,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/3/2024,Parts per million,0.035118,37,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/4/2024,Parts per million,0.029118,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/5/2024,Parts per million,0.034824,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/6/2024,Parts per million,0.037412,38,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/7/2024,Parts per million,0.034412,42,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/8/2024,Parts per million,0.028588,39,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/9/2024,Parts per million,0.048412,71,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/10/2024,Parts per million,0.036588,40,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/11/2024,Parts per million,0.039706,40,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/12/2024,Parts per million,0.041059,41,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/13/2024,Parts per million,0.041235,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/14/2024,Parts per million,0.047412,54,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/15/2024,Parts per million,0.044412,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/16/2024,Parts per million,0.043,49,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/17/2024,Parts per million,0.038529,40,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/18/2024,Parts per million,0.026824,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/19/2024,Parts per million,0.031765,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/20/2024,Parts per million,0.040706,47,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/21/2024,Parts per million,0.029059,35,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/22/2024,Parts per million,0.040588,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/23/2024,Parts per million,0.050529,51,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/24/2024,Parts per million,0.042882,47,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/25/2024,Parts per million,0.032941,37,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/26/2024,Parts per million,0.038647,43,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/27/2024,Parts per million,0.038118,43,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/28/2024,Parts per million,0.034765,48,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/29/2024,Parts per million,0.046235,80,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,4/30/2024,Parts per million,0.036176,50,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/1/2024,Parts per million,0.043824,58,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/2/2024,Parts per million,0.048353,77,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/6/2024,Parts per million,0.011471,20,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/3/2024,Parts per million,0.033176,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/4/2024,Parts per million,0.027412,26,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/5/2024,Parts per million,0.017824,22,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/7/2024,Parts per million,0.040647,77,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/8/2024,Parts per million,0.042412,49,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/9/2024,Parts per million,0.038353,39,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/10/2024,Parts per million,0.023176,25,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/11/2024,Parts per million,0.033647,35,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/12/2024,Parts per million,0.023353,24,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/13/2024,Parts per million,0.035294,43,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/14/2024,Parts per million,0.032588,39,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/15/2024,Parts per million,0.036941,39,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/16/2024,Parts per million,0.033412,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/17/2024,Parts per million,0.023941,37,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/18/2024,Parts per million,0.020882,23,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/19/2024,Parts per million,0.033,41,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/20/2024,Parts per million,0.038118,51,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/21/2024,Parts per million,0.041118,54,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/22/2024,Parts per million,0.039529,49,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/23/2024,Parts per million,0.040882,54,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/24/2024,Parts per million,0.047,100,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/25/2024,Parts per million,0.060294,112,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/26/2024,Parts per million,0.0385,45,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/27/2024,Parts per million,0.031182,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/28/2024,Parts per million,0.045,49,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/29/2024,Parts per million,0.037588,46,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/30/2024,Parts per million,0.039,41,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,5/31/2024,Parts per million,0.036824,45,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/1/2024,Parts per million,0.047588,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/2/2024,Parts per million,0.053235,77,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/3/2024,Parts per million,0.046941,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/4/2024,Parts per million,0.052235,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/5/2024,Parts per million,0.036706,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/6/2024,Parts per million,0.041176,48,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/7/2024,Parts per million,0.044941,58,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/8/2024,Parts per million,0.034941,40,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/9/2024,Parts per million,0.039471,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/10/2024,Parts per million,0.028647,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/11/2024,Parts per million,0.024118,30,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/12/2024,Parts per million,0.044882,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/13/2024,Parts per million,0.049765,71,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/14/2024,Parts per million,0.055294,119,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/15/2024,Parts per million,0.035824,39,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/16/2024,Parts per million,0.043412,50,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/17/2024,Parts per million,0.045647,51,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/18/2024,Parts per million,0.046294,67,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/19/2024,Parts per million,0.040824,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/20/2024,Parts per million,0.044706,90,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/21/2024,Parts per million,0.051412,115,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/22/2024,Parts per million,0.049529,97,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/23/2024,Parts per million,0.040882,54,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/24/2024,Parts per million,0.039235,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/25/2024,Parts per million,0.053529,87,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/26/2024,Parts per million,0.062,136,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/27/2024,Parts per million,0.042941,54,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/28/2024,Parts per million,0.035412,41,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/29/2024,Parts per million,0.034588,43,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,6/30/2024,Parts per million,0.032235,38,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/3/2024,Parts per million,0.037059,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/1/2024,Parts per million,0.023765,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/2/2024,Parts per million,0.036412,46,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/4/2024,Parts per million,0.047588,74,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/5/2024,Parts per million,0.044588,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/9/2024,Parts per million,0.039235,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/6/2024,Parts per million,0.048941,71,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/7/2024,Parts per million,0.049882,84,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/8/2024,Parts per million,0.049765,101,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/10/2024,Parts per million,0.028882,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/11/2024,Parts per million,0.044765,64,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/12/2024,Parts per million,0.027471,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/13/2024,Parts per million,0.034882,48,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/14/2024,Parts per million,0.040941,67,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/15/2024,Parts per million,0.055059,97,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/16/2024,Parts per million,0.052588,87,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/17/2024,Parts per million,0.052882,108,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/18/2024,Parts per million,0.038412,45,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/19/2024,Parts per million,0.041294,48,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/20/2024,Parts per million,0.041471,48,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/21/2024,Parts per million,0.050588,71,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/22/2024,Parts per million,0.036824,41,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/23/2024,Parts per million,0.040118,46,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/24/2024,Parts per million,0.031059,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/25/2024,Parts per million,0.039882,49,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/26/2024,Parts per million,0.028706,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/27/2024,Parts per million,0.040118,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/28/2024,Parts per million,0.043059,49,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/29/2024,Parts per million,0.041471,51,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/30/2024,Parts per million,0.039,40,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,7/31/2024,Parts per million,0.042824,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/1/2024,Parts per million,0.052412,105,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/2/2024,Parts per million,0.036412,45,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/3/2024,Parts per million,0.041941,46,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/4/2024,Parts per million,0.034647,40,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/5/2024,Parts per million,0.044529,71,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/6/2024,Parts per million,0.047118,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/7/2024,Parts per million,0.027706,28,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/8/2024,Parts per million,0.015941,19,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/9/2024,Parts per million,0.022353,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/10/2024,Parts per million,0.040647,48,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/11/2024,Parts per million,0.034647,42,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/12/2024,Parts per million,0.031471,43,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/13/2024,Parts per million,0.026294,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/14/2024,Parts per million,0.026294,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/15/2024,Parts per million,0.027118,35,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/16/2024,Parts per million,0.048824,77,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/17/2024,Parts per million,0.027,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/18/2024,Parts per million,0.034,40,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/19/2024,Parts per million,0.026706,38,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/20/2024,Parts per million,0.026706,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/21/2024,Parts per million,0.025059,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/22/2024,Parts per million,0.028882,37,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/23/2024,Parts per million,0.035588,49,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/24/2024,Parts per million,0.050059,84,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/25/2024,Parts per million,0.054647,87,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/26/2024,Parts per million,0.046882,126,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/27/2024,Parts per million,0.056059,101,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/28/2024,Parts per million,0.051471,87,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/29/2024,Parts per million,0.027118,30,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/30/2024,Parts per million,0.020706,23,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,8/31/2024,Parts per million,0.033176,40,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/1/2024,Parts per million,0.035818,43,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/2/2024,Parts per million,0.03,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/3/2024,Parts per million,0.032529,43,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/4/2024,Parts per million,0.042412,54,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/8/2024,Parts per million,0.029176,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/5/2024,Parts per million,0.030529,39,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/6/2024,Parts per million,0.026118,29,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/7/2024,Parts per million,0.020235,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/9/2024,Parts per million,0.033824,42,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/10/2024,Parts per million,0.034882,46,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/11/2024,Parts per million,0.041765,48,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/12/2024,Parts per million,0.041353,54,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/13/2024,Parts per million,0.035882,54,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/14/2024,Parts per million,0.050235,77,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/15/2024,Parts per million,0.032176,37,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/16/2024,Parts per million,0.025765,29,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/17/2024,Parts per million,0.029,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/18/2024,Parts per million,0.021294,23,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/19/2024,Parts per million,0.031941,48,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/20/2024,Parts per million,0.038471,47,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/21/2024,Parts per million,0.038882,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/22/2024,Parts per million,0.039176,46,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/23/2024,Parts per million,0.029176,29,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/24/2024,Parts per million,0.031941,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/25/2024,Parts per million,0.020294,22,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/26/2024,Parts per million,0.020235,26,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/27/2024,Parts per million,0.024647,24,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/28/2024,Parts per million,0.024118,24,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/29/2024,Parts per million,0.024765,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,9/30/2024,Parts per million,0.028647,30,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/1/2024,Parts per million,0.025,26,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/2/2024,Parts per million,0.033,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/3/2024,Parts per million,0.032294,42,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/4/2024,Parts per million,0.032765,38,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/5/2024,Parts per million,0.031118,42,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/6/2024,Parts per million,0.044294,49,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/7/2024,Parts per million,0.028588,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/11/2024,Parts per million,0.025529,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/8/2024,Parts per million,0.029824,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/9/2024,Parts per million,0.032706,38,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/10/2024,Parts per million,0.012353,16,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/12/2024,Parts per million,0.027235,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/13/2024,Parts per million,0.041529,45,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/14/2024,Parts per million,0.026412,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/15/2024,Parts per million,0.022412,24,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/16/2024,Parts per million,0.026765,28,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/17/2024,Parts per million,0.021294,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/18/2024,Parts per million,0.016,30,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/19/2024,Parts per million,0.025,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/20/2024,Parts per million,0.026765,44,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/21/2024,Parts per million,0.030941,58,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/22/2024,Parts per million,0.047118,61,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/23/2024,Parts per million,0.036941,49,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/24/2024,Parts per million,0.028294,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/25/2024,Parts per million,0.022176,30,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/26/2024,Parts per million,0.031765,37,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/27/2024,Parts per million,0.019647,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/28/2024,Parts per million,0.024059,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/29/2024,Parts per million,0.029059,39,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/30/2024,Parts per million,0.024412,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,10/31/2024,Parts per million,0.036,41,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/1/2024,Parts per million,0.031824,37,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/2/2024,Parts per million,0.029235,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/3/2024,Parts per million,0.021118,30,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/4/2024,Parts per million,0.024647,35,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/5/2024,Parts per million,0.031647,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/6/2024,Parts per million,0.026235,38,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/7/2024,Parts per million,0.026118,36,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/8/2024,Parts per million,0.033529,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/9/2024,Parts per million,0.014588,28,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/10/2024,Parts per million,0.028529,31,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/11/2024,Parts per million,0.021118,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/12/2024,Parts per million,0.025471,25,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/13/2024,Parts per million,0.012471,25,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/14/2024,Parts per million,0.021529,26,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/15/2024,Parts per million,0.024353,25,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/16/2024,Parts per million,0.028059,30,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/17/2024,Parts per million,0.016706,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/18/2024,Parts per million,0.017294,28,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/19/2024,Parts per million,0.011765,19,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/20/2024,Parts per million,0.024412,29,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/21/2024,Parts per million,0.021588,21,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/22/2024,Parts per million,0.008118,12,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/23/2024,Parts per million,0.020294,22,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/24/2024,Parts per million,0.015882,20,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/25/2024,Parts per million,0.015765,19,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/26/2024,Parts per million,0.015765,21,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/27/2024,Parts per million,0.012176,22,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/28/2024,Parts per million,0.019059,22,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/29/2024,Parts per million,0.024412,26,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,11/30/2024,Parts per million,0.025118,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/1/2024,Parts per million,0.016941,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/2/2024,Parts per million,0.016118,19,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/3/2024,Parts per million,0.014059,19,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/4/2024,Parts per million,0.024176,24,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/5/2024,Parts per million,0.022235,23,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/6/2024,Parts per million,0.024588,30,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/7/2024,Parts per million,0.021588,23,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/11/2024,Parts per million,0.024412,27,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/8/2024,Parts per million,0.015353,29,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/9/2024,Parts per million,0.002176,4,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/10/2024,Parts per million,0.011471,19,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/12/2024,Parts per million,0.029941,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/13/2024,Parts per million,0.0166,21,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/14/2024,Parts per million,0.012882,21,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/15/2024,Parts per million,0.006412,9,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/16/2024,Parts per million,0.015706,17,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/17/2024,Parts per million,0.007235,12,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/18/2024,Parts per million,0.016,21,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/19/2024,Parts per million,0.016471,19,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/20/2024,Parts per million,0.0073,11,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/21/2024,Parts per million,0.034529,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/22/2024,Parts per million,0.029882,34,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/23/2024,Parts per million,0.016588,20,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/24/2024,Parts per million,0.009647,16,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/25/2024,Parts per million,0.021941,24,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/26/2024,Parts per million,0.011294,21,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/27/2024,Parts per million,0.006294,11,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/28/2024,Parts per million,0.002118,3,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/29/2024,Parts per million,0.039235,41,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/30/2024,Parts per million,0.026471,33,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"
+0048,39.991389,-75.080833,8-HR RUN AVG BEGIN HOUR,Ozone 8-hour 2015,12/31/2024,Parts per million,0.030455,32,North East Waste (NEW),"3000 LEWIS ST. (NEAR BATH ST.) Philadelphia, PA. 19137"

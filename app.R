@@ -1,4 +1,5 @@
-install.packages("rsconnect")
+# install.packages("arcgisbinding")
+ install.packages("arcgisbinding", repos="https://r.esri.com", type="win.binary")
 
 library(leaflet)
 library(dplyr)
@@ -31,7 +32,8 @@ library(shinyBS)
 library(tableHTML)
 library(rsconnect)
 
-rsconnect::writeManifest()
+
+# rsconnect::writeManifest()
 
 rm(list=ls())
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
