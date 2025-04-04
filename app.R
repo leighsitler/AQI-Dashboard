@@ -1,5 +1,5 @@
-install.packages("rsconnect")
-renv::install("leighsitler/AQI-Dashboard")
+# install.packages("rsconnect")
+
 library(leaflet)
 library(dplyr)
 library(tidyverse)
@@ -30,8 +30,6 @@ library(grid)
 library(shinyBS)
 library(tableHTML)
 library(rsconnect)
-
-rsconnect::writeManifest()
 
 rm(list=ls())
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
