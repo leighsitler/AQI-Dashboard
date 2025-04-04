@@ -1,5 +1,5 @@
 # install.packages("arcgisbinding")
- install.packages("arcgisbinding", repos="https://r.esri.com", type="win.binary")
+ # install.packages("arcgisbinding", repos="https://r.esri.com", type="win.binary")
 
 library(leaflet)
 library(dplyr)
@@ -32,8 +32,11 @@ library(shinyBS)
 library(tableHTML)
 library(rsconnect)
 
-
+# 
 # rsconnect::writeManifest()
+# renv::init()
+# renv::install("leighsitler/AQI-Dashboard")
+# remotes::install_github(repo = myrepos/mypackage)
 
 rm(list=ls())
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
