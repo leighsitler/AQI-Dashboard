@@ -1083,3 +1083,7 @@
 2025-04-03,421010057,"FAB","PM25_24hr","UG/M3",9.7,24,"Philadelphia Air Management Services",39.9603,-75.1424
 2025-04-03,421010075,"TOR","CO_8hr","PPM",0.4,1,"Philadelphia Air Management Services",40.054171,-74.985166
 2025-04-03,421010075,"TOR","PM25_24hr","UG/M3",9.1,24,"Philadelphia Air Management Services",40.054171,-74.985166
+2025-04-03,421010055,"RIT","PM25_24hr","UG/M3",9.6,24,"Philadelphia Air Management Services",39.922867,-75.186921
+2025-04-03,421010055,"RIT","SO2_24HR","PPB",0.8,24,"Philadelphia Air Management Services",39.922867,-75.186921
+2025-04-03,421010004,"LABP","OZONE_1HR","PPB",41,1,"Philadelphia Air Management Services",40.00892,-75.09777
+2025-04-03,421010004,"LABP","OZONE_8HR","PPB",24,8,"Philadelphia Air Management Services",40.00892,-75.09777

@@ -32,14 +32,9 @@ library(shinyBS)
 library(tableHTML)
 library(rsconnect)
 
-# 
-# rsconnect::writeManifest()
-# renv::init()
-# renv::install("leighsitler/AQI-Dashboard")
-# remotes::install_github(repo = myrepos/mypackage)
 
 rm(list=ls())
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
 arc.check_product()
 RAQSAPI::aqs_credentials(username = "leigh.sitler@phila.gov", key = "khakigazelle25")
 
@@ -408,9 +403,9 @@ PM10_2024_small %>%
                    Longitude = mean(longitude)) -> PM10_aqistats
 
 #### 2025 INPUT DATA ----
-PhilaNames <- c("LAPB", "NEA", "NEW", "FAB", "TOR", "MON")
-PhilaLat <- c(40.00892, 40.0767, 39.991389, 39.9603, 40.054171, 39.988842)
-PhilaLong <- c(-75.09777, -75.0108, -75.080833, -75.1424, -74.985166, -75.207205)
+PhilaNames <- c("LABP", "NEA", "NEW", "FAB", "TOR", "MON", "RIT")
+PhilaLat <- c(40.00892, 40.0767, 39.991389, 39.9603, 40.054171, 39.988842, 39.922867)
+PhilaLong <- c(-75.09777, -75.0108, -75.080833, -75.1424, -74.985166, -75.207205, -75.186921)
 PhilaSites <- data.frame(PhilaNames, PhilaLat, PhilaLong) %>% 
   setNames(c("SiteName", "Latitude", "Longitude"))
 
